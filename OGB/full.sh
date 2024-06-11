@@ -1,0 +1,1 @@
+python dagcn_arxiv.py --concat 1 --samples 1 --num_layers 3 --hidden_channels 300 --lr 0.01 --epochs 500 --lam 2.0 --tem 0.5
